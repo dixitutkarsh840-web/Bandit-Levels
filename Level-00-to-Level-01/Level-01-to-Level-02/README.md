@@ -10,8 +10,13 @@ After logging in, I used the `ls` command:
 
 ```bash
 ls
+The command showed a file named:
 -
+## Step 2 - Read the File
+I used the following command to read the file:
 cat ./-
+The ./ tells Linux that - is a file in the current directory.
+The file contained the password required for the next level.
 ls
 cat ./-
 ./
